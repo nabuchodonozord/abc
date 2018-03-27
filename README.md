@@ -4,7 +4,7 @@
 
 Application imitating old Snake game using PCD8544 display. 
 
-**Description****
+**Description**
 
 Project requires Discovery STM32F407VG board and PCD8544 display.
 
